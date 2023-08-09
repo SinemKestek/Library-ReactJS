@@ -1,0 +1,11 @@
+.navbar-container{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding: 2rem 4.5rem;
+    align-items: center;
+    height: 60px;
+}
+.nav-link:hover{
+    color: var(--purple-color);
+}

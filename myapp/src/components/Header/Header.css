@@ -1,0 +1,16 @@
+.header-content{
+    min-height: 75vh;
+    background-color: bisque;
+    justify-content: center;
+
+}
+.header-title{
+    font-size: 4.2rem;
+}
+.header-text{
+    margin-top: -1.4rem;
+    margin-bottom: 2.4rem;
+    opacity: 0.7;
+    max-width: 770px;
+
+}
